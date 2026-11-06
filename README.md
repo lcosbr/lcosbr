@@ -5,7 +5,7 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcosbr/lcosbr/main/dark_mode.svg">
-    <img alt="Lucas Oliveira Terminal Info" src="https://raw.githubusercontent.com/lcosbr/lcosbr/main/light_mode.svg" width="620">
+    <img alt="Lucas Oliveira Terminal Info" src="https://raw.githubusercontent.com/lcosbr/lcosbr/main/light_mode.svg" width="1024">
   </picture>
 
   <br><br>
