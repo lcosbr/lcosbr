@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="portrait.png" width="360" alt="Lucas Oliveira" style="border-radius: 14px; max-width: 100%;" />
+  <img src="portrait.png" width="800" alt="Lucas Oliveira" style="border-radius: 14px; max-width: 100%;" />
 
   <br><br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcosbr/lcosbr/main/dark_mode.svg">
-    <img alt="Lucas Oliveira Terminal Info" src="https://raw.githubusercontent.com/lcosbr/lcosbr/main/light_mode.svg" width="1024">
+    <img alt="Lucas Oliveira Terminal Info" src="https://raw.githubusercontent.com/lcosbr/lcosbr/main/light_mode.svg" width="800">
   </picture>
 
   <br><br>
